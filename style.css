@@ -176,10 +176,9 @@ body{
   position: absolute;
   cursor: pointer;
   font-weight: 600;
-  bottom: 0;
-  left: 430px;
-  right: 430px;
-  padding-bottom: 70px;
+  bottom: 60px;
+  left: 0;
+  right: 0;
   font-size: 1.1em;
   border-radius: 5px;
   transition: .25s;
